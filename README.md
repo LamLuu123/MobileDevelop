@@ -29,3 +29,7 @@ Student ID: 19021318
 -Cài giả lập noxplayer
 -Cài Dart plugin
 -Tạo Project flutter đầu tiên
+Làm đến bài 13
+bài 14+16 còn 1 số lỗi
+BÀi 17 đã làm
+Bài 18 lỗi sdk
