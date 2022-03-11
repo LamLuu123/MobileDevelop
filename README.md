@@ -32,4 +32,6 @@ Student ID: 19021318
 Làm đến bài 13
 bài 14+16 còn 1 số lỗi
 BÀi 17 đã làm
-Bài 18 lỗi sdk
+Bài 18 
+BAi 19+20+21+22+23
+
